@@ -1,0 +1,5 @@
+jupyter
+langchain
+faiss-cpu 
+pypdfium2
+langchain-text-splitters
